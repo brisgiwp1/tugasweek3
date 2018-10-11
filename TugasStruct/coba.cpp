@@ -48,12 +48,12 @@ int main ()
             	cout<<"Data ke- " << i+1 ;
             	cout<<endl;
             	cout<<"\ntitle :";
-				cout<<x[i].title<< " ";
-				cout<<endl;
-				cout<<"\ntahun :";
+		cout<<x[i].title<< " ";
+		cout<<endl;
+		cout<<"\ntahun :";
             	cout<<x[i].tahun << " " << endl;
 
            	}
-   		}
+   	}
 	}
 }
